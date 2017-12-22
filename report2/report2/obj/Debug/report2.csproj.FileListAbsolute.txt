@@ -1,0 +1,153 @@
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\report2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\obj\Debug\report2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\report2.exe
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\report2.pdb
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\MySql.Data.xml
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\obj\Debug\report2.exe
+c:\users\user\documents\visual studio 2015\Projects\report2\report2\obj\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\report2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\RdlCompile.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2 - 複製\report2\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\obj\Debug\report2.Login.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\obj\Debug\report2.Report_health_check.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\report2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.Login.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.Report_health_check.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\RdlCompile.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2\report2\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\report2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\report2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\report2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.Login.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.Report_health_check.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\RdlCompile.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\itextsharp.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2_v2 - 複製\report2\bin\Debug\itextsharp.xml
+C:\Users\USER\documents\visual studio 2015\Projects\report2\report2\bin\Debug\itextsharp.dll
+C:\Users\USER\documents\visual studio 2015\Projects\report2\report2\bin\Debug\itextsharp.xml
+C:\Users\USER\documents\visual studio 2015\Projects\report2\report2\obj\Debug\RdlCompile.cache
+C:\Users\USER\documents\visual studio 2015\Projects\report2\report2\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\report2\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\report2\report2\bin\Debug\report2.exe.config
+C:\Users\USER\source\repos\report2\report2\bin\Debug\report2.exe
+C:\Users\USER\source\repos\report2\report2\bin\Debug\report2.pdb
+C:\Users\USER\source\repos\report2\report2\bin\Debug\itextsharp.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\itextsharp.xml
+C:\Users\USER\source\repos\report2\report2\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\report2\report2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.Login.resources
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.Report_health_check.resources
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.Properties.Resources.resources
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.exe
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.pdb
+C:\Users\USER\source\repos\report2\report2\bin\Debug\report2.exe.manifest
+C:\Users\USER\source\repos\report2\report2\bin\Debug\report2.application
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.exe.manifest
+C:\Users\USER\source\repos\report2\report2\obj\Debug\report2.application
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\bin\Debug\report2.exe.config
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.exe
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.pdb
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.Login.resources
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.Report_health_check.resources
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.Properties.Resources.resources
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\report2.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\RdlCompile.cache
+C:\Users\USER\source\repos\長德_Report2_Project\report2\report2\obj\Debug\RdlCompile.compiled
